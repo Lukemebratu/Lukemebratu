@@ -8,10 +8,7 @@ I enjoy learning by building, solving real problems, and turning ideas into work
 
 ### 🚀 What I'm Working On
 
-* 🌱 Learning **
-* - Java
-- Spring Boot**
-- ### 🌱 Currently Learning
+## 🌱 Learning **
 [![Learning](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 * 🤖 Exploring **AI and modern AI-powered applications**
@@ -22,13 +19,10 @@ I enjoy learning by building, solving real problems, and turning ideas into work
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,reactnative,nextjs,tailwind,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,,nextjs,tailwind,css)](https://skillicons.dev)
 
 **Frontend**
-
-**Frontend**
-
-[![Frontend Skills](https://skillicons.dev/icons?i=react,reactnative,nextjs)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 **Interests**
 
