@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**Lukemebratu/Lukemebratu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Luke 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student and aspiring **software developer & tech entrepreneur** passionate about building useful products with technology.
+
+I enjoy learning by building, solving real problems, and turning ideas into working software.
+
+### 🚀 What I'm Working On
+
+* 🌱 Learning **
+* - Java
+- Spring Boot**
+- ### 🌱 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+* 🤖 Exploring **AI and modern AI-powered applications**
+* 🛠️ Building projects to improve my software development skills
+* 💡 Learning about **startups, products, and entrepreneurship**
+
+### 💻 Tech I'm Learning
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,reactnative,nextjs,tailwind,css)](https://skillicons.dev)
+
+**Frontend**
+
+**Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=react,reactnative,nextjs)](https://skillicons.dev)
+
+**Interests**
+
+* Artificial Intelligence
+* Software Development
+* Product Building
+* Startups & Entrepreneurship
+
+### 🎯 My Goal
+
+To become a strong **product-focused software developer** who can turn ideas into useful products that solve real problems.
+
+### 📫 Let's Connect
+
+I'm always interested in learning, building, and connecting with other developers and builders.
+
+**Thanks for visiting my profile!** 🚀
+
+
+
