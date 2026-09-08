@@ -19,9 +19,10 @@ I enjoy learning by building, solving real problems, and turning ideas into work
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,,nextjs,tailwind,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,css)](https://skillicons.dev)
 
 **Frontend**
+
 [![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 **Interests**
